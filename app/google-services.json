@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015297460498",
+    "firebase_url": "https://mangarreader-26755-default-rtdb.firebaseio.com",
+    "project_id": "mangarreader-26755",
+    "storage_bucket": "mangarreader-26755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015297460498:android:33b7d60a97819327464bcb",
+        "android_client_info": {
+          "package_name": "com.manga.mangareaderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015297460498-oac8jaoqn479t1o271qgn2jmqskak8gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTmTXnkGr0qkmKiszi12cfD3N2_kGiG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015297460498-oac8jaoqn479t1o271qgn2jmqskak8gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
