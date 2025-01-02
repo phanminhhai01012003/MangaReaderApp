@@ -4,8 +4,8 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
-    buildToolsVersion '30.0.3'
+    compileSdk 34
+    buildTools '30.0.3'
 
     defaultConfig {
         applicationId "com.manga.mangareaderapp"

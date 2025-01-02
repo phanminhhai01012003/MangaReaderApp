@@ -126,10 +126,12 @@ public class MangaDetailsAct extends AppCompatActivity implements ChapterAdapter
         LoadDetails();
 
         btnFavorite.setOnClickListener(v -> {
-            if (!IS_ADD)
+            if (!IS_ADD) {
                 AddToFavorite(user);
-            else
+            }
+            else {
                 Toast.makeText(MangaDetailsAct.this, "Truyện đã tồn tại trong mục ưa thích", Toast.LENGTH_LONG).show();
+            }
         });
 
         btnShare.setOnClickListener(view -> {
